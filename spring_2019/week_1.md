@@ -13,7 +13,7 @@
 ## Anything Blocking?
 
 
-> Not sure about details of the form's design. I will talk with the other
+> Not sure about details of the form's design. I will talk with other group members.
 
 ## Notes
 
